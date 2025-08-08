@@ -65,3 +65,4 @@ int main() {
     std::cout << fullMorseCode << std::endl;
 
     return 0;
+
